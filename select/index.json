@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "東京ゴッドストリートボーイズ",
+  "base_artist": "OddRe:",
+  "createdAt": "2025-12-15T08:12:30.886530Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "東京ゴッドストリートボーイズ",
+      "artist": "OddRe:",
+      "has_synced": false,
+      "path": "select/pl_01_東京ゴッドストリートボーイズ_OddRe.txt"
+    }
+  ]
+}
